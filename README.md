@@ -1,4 +1,4 @@
-## indefinable dev 👾
+## Hi, I'm Artem 👾
 
 ![profile count](https://komarev.com/ghpvc/?username=temerep&color=red)&nbsp;
 [![GitHub temerep](https://img.shields.io/github/followers/temerep?label=follow&style=social)](https://github.com/temerep)&nbsp;
