@@ -11,6 +11,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs)&nbsp;
 ![Axios](https://img.shields.io/badge/-Axios-05122A?style=flat&logo=axios)&nbsp;
+![PM2](https://img.shields.io/badge/-PM2-05122A?style=flat&logo=pm2)&nbsp;
 ![MobX](https://img.shields.io/badge/-MobX-05122A?style=flat&logo=mobx)\
 ![Vue 3](https://img.shields.io/badge/-Vue_3-05122A?style=flat&logo=vuedotjs)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)&nbsp;
@@ -21,6 +22,7 @@
 ![MongoDB](https://img.shields.io/badge/-Mongo_DB-05122A?style=flat&logo=mongodb)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![HTTPie](https://img.shields.io/badge/-HTTPie-05122A?style=flat&logo=httpie)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
