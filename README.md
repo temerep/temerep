@@ -1,6 +1,6 @@
-## Hi, I'm Artem 👾
+## Hi, I'm Artem 👋
 
-![profile count](https://komarev.com/ghpvc/?username=temerep&color=red)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=temerep&color=1C9AD6)&nbsp;
 [![GitHub temerep](https://img.shields.io/github/followers/temerep?label=follow&style=social)](https://github.com/temerep)&nbsp;
 
 ### 🛠 &nbsp;Tech Stack
