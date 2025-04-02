@@ -3,7 +3,7 @@
 ![profile count](https://komarev.com/ghpvc/?username=temerep&color=1C9AD6)&nbsp;
 [![GitHub temerep](https://img.shields.io/github/followers/temerep?label=follow&style=social)](https://github.com/temerep)&nbsp;
 
-### 🛠 &nbsp;Tech Stack
+### ⚙️ &nbsp;techStack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css&logoColor=1572B6)&nbsp;
@@ -25,7 +25,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
-### 📫 &nbsp; How to reach me:
+### 📫 &nbsp; howToReachMe:
 
 <a href="https://instagram.com/_repei/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-FF0069?style=flat&logo=instagram&logoColor=white" /></a> &nbsp;
 <a href="https://t.me/temerep" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" /></a> &nbsp;
