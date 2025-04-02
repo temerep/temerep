@@ -16,5 +16,5 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 ### 📫 &nbsp; How to reach me:
-<a href="https://t.me/temerep"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" /></a> &nbsp;
-<a href="mailto:temerep@icloud.com"><img alt="iCloud" src="https://img.shields.io/badge/iCloud-3693F3?style=flat&logo=icloud&logoColor=white" /></a> &nbsp;
+<a href="https://t.me/temerep" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" /></a> &nbsp;
+<a href="mailto:temerep@icloud.com" target="_blank"><img alt="iCloud" src="https://img.shields.io/badge/iCloud-3693F3?style=flat&logo=icloud&logoColor=white" /></a> &nbsp;
