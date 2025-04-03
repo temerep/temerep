@@ -11,8 +11,12 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs)&nbsp;
 ![Axios](https://img.shields.io/badge/-Axios-05122A?style=flat&logo=axios)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
 ![PM2](https://img.shields.io/badge/-PM2-05122A?style=flat&logo=pm2)&nbsp;
-![MobX](https://img.shields.io/badge/-MobX-05122A?style=flat&logo=mobx)\
+![MobX](https://img.shields.io/badge/-MobX-05122A?style=flat&logo=mobx)&nbsp;
+![Lodash](https://img.shields.io/badge/-Lodash-05122A?style=flat&logo=lodash)\
+![Puppeteer](https://img.shields.io/badge/-Puppeteer-05122A?style=flat&logo=puppeteer)&nbsp;
+![PWA](https://img.shields.io/badge/-PWA-05122A?style=flat&logo=pwa)&nbsp;
 ![Vue 3](https://img.shields.io/badge/-Vue_3-05122A?style=flat&logo=vuedotjs)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)&nbsp;
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-05122A?style=flat&logo=nuxt)&nbsp;
@@ -26,6 +30,12 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+
+
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jirasoftware)&nbsp;
+![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello)&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 
 ### 📫 &nbsp; howToReachMe:
 
