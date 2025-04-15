@@ -3,7 +3,7 @@
 ![profile count](https://komarev.com/ghpvc/?username=temerep&color=1C9AD6)&nbsp;
 [![GitHub temerep](https://img.shields.io/github/followers/temerep?label=follow&style=social)](https://github.com/temerep)&nbsp;
 
-### ⚙️ &nbsp;techStackk
+### ⚙️ &nbsp;techStack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css&logoColor=1572B6)&nbsp;
